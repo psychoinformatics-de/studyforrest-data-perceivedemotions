@@ -1,0 +1,6 @@
+{
+"SamplingFrequency": 10.0,
+"StartTime": 0.0,
+"Columns": ["happiness","surprise","fear","sadness","anger","disgust"],
+"ContentDescription": ""
+}

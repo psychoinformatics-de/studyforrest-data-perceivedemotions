@@ -1,0 +1,8 @@
+{
+"Name": "studyforrest_perceived_emotions",
+"BIDSVersion": "1.2.1",
+"Description": "Subjective ratings of emotional experience during Forrest Gump (as used as studyforrest stimulus)",
+"License": "PDDL",
+"Authors": ["Giada Lettieri","Giacomo Handjaras","Luca Cecchetti"],
+"HowToAcknowledge": "Please cite: Emotionotopy in the Human Right Temporo-Parietal Cortex, DOI: "
+}
